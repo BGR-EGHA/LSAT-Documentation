@@ -13,7 +13,7 @@ This manual provide a brief overview of the LSAT PMS v 1.0.0 and its basic funct
 	:numbered:
 	:caption: Contents:
    
-	INTRODUCTION/INTRODUCTION
+	Introduction/Introduction
 	PROJECT/PROJECT
 	DATA/DATA
 	ANALYSIS/ANALYSIS
