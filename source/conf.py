@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'LSAT PMS'
+project = 'LSAT PM'
 copyright = '2021, Federal Institute for Geosciences and Natural Resources'
 author = 'Federal Institute for Geosciences and Natural Resources'
 

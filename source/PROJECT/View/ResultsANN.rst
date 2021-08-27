@@ -28,7 +28,7 @@ In addition to the overview tab (6) each raster dataset has its own tab:
 
    ANN Results Widget - raster dataset tab (discrete)
 
-LSAT PMS assigns a Clas ID (1) for each unique value in the raster if it is a discrete type. Note
+LSAT PM assigns a Clas ID (1) for each unique value in the raster if it is a discrete type. Note
 that these may differ from the original raster values.
 
 Class (2) shows the amount of pixels in the raster dataset with that unique value / Class ID

@@ -53,7 +53,7 @@ Edit the defaults by changing [DEFAULT] in
 Information
 ^^^^^^^^^^^
 
-LSAT PMS uses `scikit-learns LogisticRegression <https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html>`_
+LSAT PM uses `scikit-learns LogisticRegression <https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html>`_
 to apply LR to spatial data.
 
 Changes made to the settings are persistant.

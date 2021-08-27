@@ -75,7 +75,7 @@ Import Process
 
    Schematic workflow for raster dataset import
 
-LSAT PMS compares five properties of the input raster dataset to the mask raster dataset:
+LSAT PM compares five properties of the input raster dataset to the mask raster dataset:
 
 #. EPSG Code
 #. Raster dimension (Number of rows/columns)

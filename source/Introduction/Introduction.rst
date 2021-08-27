@@ -1,7 +1,7 @@
 INTRODUCTION
 ============
 
-Introducing LSAT PMS.
+Introducing LSAT PM.
 
 .. toctree::
     :maxdepth: 4

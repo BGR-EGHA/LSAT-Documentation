@@ -51,7 +51,7 @@ Edit the defaults by changing [DEFAULT] in \*LSAT Folder\*/core/widgets/ANN/ann_
 Information
 ^^^^^^^^^^^
 
-LSAT PMS uses `scikit-learns MLPClassifier <https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html>`_
+LSAT PM uses `scikit-learns MLPClassifier <https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html>`_
 to apply ANN to spatial data.
 
 Changes made to the settings are persistant.

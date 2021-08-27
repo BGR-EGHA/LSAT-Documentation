@@ -72,7 +72,7 @@ analysis.
    AHP Results Widget - pairwise transformed raster value comparison
 
 The raster value comparison tab shows the raster value comparison table modified by the user
-defined scale. Because LSAT PMS supports only linear transformation at the moment the normal
+defined scale. Because LSAT PM supports only linear transformation at the moment the normal
 pairwise raster value comparison is the same as the pairwise transformed raster value comparison.
 
 Open this widget by right clicking the output .npz of an

@@ -1,11 +1,11 @@
-.. LSAT PMS documentation master file, created by
+.. LSAT PM documentation master file, created by
    sphinx-quickstart on Fri Jun 11 09:21:08 2021.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to LSAT PMS's documentation!
+Welcome to LSAT PM's documentation!
 ====================================
-This manual provide a brief overview of the LSAT PMS v 1.0.0 and its basic functionalities.
+This manual provide a brief overview of the LSAT PM v 1.0.0 and its basic functionalities.
 
 
 .. toctree::
