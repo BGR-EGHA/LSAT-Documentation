@@ -1,6 +1,8 @@
 LSAT-docs
 =========
 
+[![DOI](https://zenodo.org/badge/386275172.svg)](https://zenodo.org/badge/latestdoi/386275172)
+
 This repository contains the source files necessary to build the LSAT Documentation.
 
 ## How to build and view the LSAT Documentation as html on Windows
