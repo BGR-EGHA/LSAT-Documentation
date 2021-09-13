@@ -58,7 +58,7 @@ Processing Types
 Information
 ^^^^^^^^^^^
 
-Geoprocessing Tools only supports Shapefiles (.shp) as of LSAT PM v 1.0.0.
+Geoprocessing Tools only supports Shapefiles (.shp) as of LSAT PM v1.0.0a.
 
 Input and Output
 ^^^^^^^^^^^^^^^^

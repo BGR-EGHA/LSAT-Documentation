@@ -22,7 +22,7 @@ copyright = '2021, Federal Institute for Geosciences and Natural Resources'
 author = 'Federal Institute for Geosciences and Natural Resources'
 
 # The full version, including alpha/beta/rc tags
-release = '1.0.0'
+release = '1.0.0a'
 
 
 # -- General configuration ---------------------------------------------------
