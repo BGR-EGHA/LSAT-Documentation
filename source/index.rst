@@ -4,8 +4,8 @@
    contain the root `toctree` directive.
 
 Welcome to LSAT PM's documentation!
-====================================
-This manual provide a brief overview of the LSAT PM v1.0.0a and its basic functionalities.
+===================================
+This manual provides a brief overview of LSAT PM v1.0.0b and its basic functionalities.
 
 
 .. toctree::
