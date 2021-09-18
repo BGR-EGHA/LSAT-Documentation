@@ -54,7 +54,7 @@ Information
 Scale of preference (Saaty, 1977)
 
 +---------------------------+---------------------------------+-----------------------------------+
-| Intensitity of importance | Definition                      | Explanation                       |
+| Intensity of importance   | Definition                      | Explanation                       |
 +---------------------------+---------------------------------+-----------------------------------+
 | 1                         | Equal importance                | Two activities contribute equally |
 |                           |                                 | to the objective                  |
@@ -82,7 +82,7 @@ Scale of preference (Saaty, 1977)
 You can write number < 1 as fractions in the pairwise comparison table, e.g. "1/7" get converted 
 to 0.14285714286.
 
-LSAT supports AHP for raster datasets with up to 10 values. If you have a continous raster or a 
+LSAT supports AHP for raster datasets with up to 10 values. If you have a continuous raster or a 
 raster dataset with more unique values reclassify them first with
 the :doc:`Sensitivity Reclassification Widget</DATA/RasterTools/SensReclass>` or 
 :doc:`Reclassify Widget</DATA/RasterTools/Reclassify>`.

@@ -19,9 +19,9 @@ Usage
 #. Define the number of subsamples to create (2).
 #. (Optional) Define a seed to initialize the random function (3).
 #. (Optional) Decide to keep the corresponding test part (6).
-#. | (Optional) Adjust the size of the traing part either by typing the number (4) or adjustung 
+#. | (Optional) Adjust the size of the training part either by typing the number (4) or adjusting 
    | the slider (5)
-#. (Optional) Adjust the output location either by typing the outputpath or with a dialog (7).
+#. (Optional) Adjust the output location either by typing the output path or with a dialog (7).
 #. (Optional) Name the training dataset(s) (8).
 #. (Optional) Name the test dataset(s) (8) (Only if you save them).
 #. Create the subsample(s) (10).

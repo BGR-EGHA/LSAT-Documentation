@@ -25,14 +25,14 @@ Usage
 If you want to use the created reclassified raster in your LSAT Project you need to import it
 using the :doc:`Import Raster Widget</DATA/Import/ImportRaster>`.
 
-The Plot (8) and the reclass table (9) preview the output raster. The grey area in the Plot show 
+The Plot (8) and the reclass table (9) preview the output raster. The gray area in the Plot show 
 the distribution of the input rasters values. The red lines indicate the boundaries of the new
 values.
 
-If the input raster is of type float it will be displayed as a grey area. If it is an integer 
+If the input raster is of type float it will be displayed as a gray area. If it is an integer 
 raster there will be bars in the plot (8) instead.
 
-The raster statistic (2) shows an embeded version of the
+The raster statistic (2) shows an embedded version of the
 :doc:`Raster Info Widget</PROJECT/View/RasterInfo>`
 
 .. _reclassificationmethods:

@@ -20,9 +20,9 @@ Usage
 #. | Adjust the size of the training dataset as percent of the import feature either by typing a 
    | number (3) or adjusting the slider.
 #. (Optional) Define a seed to initialize the random function (4).
-#. | (Optional) Adjust the training dataset output location either by typing the outputpath or 
+#. | (Optional) Adjust the training dataset output location either by typing the output path or 
    | with a dialog (5)
-#. | (Optional) Adjust the test dataset output location either by typing the outputpath or with a 
+#. | (Optional) Adjust the test dataset output location either by typing the output path or with a 
    | dialog (6)
 #. Start the Import (7)
 

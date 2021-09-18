@@ -24,7 +24,7 @@ Usage
 #. Update the graphs (4)
 #. Apply (10)
 
-The model info (7) shows an embeded version of the
+The model info (7) shows an embedded version of the
 :doc:`Model Info Widget</PROJECT/View/ModelInfo>`
 
 Zoning preview (8) and the ROC curve (9) offer a sneak peek at the resulting map.

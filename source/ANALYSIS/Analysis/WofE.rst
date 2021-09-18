@@ -16,10 +16,10 @@ Usage
 
 #. | Add a vector file with the landslide inventory. You can pick one from the project with the
    | combobox or select it from your PC with a dialog (5).
-#. Add (7) raster datasets to the datasets to analyse (6)
+#. Add (7) raster datasets to the datasets to analyze (6)
 #. (Optional) Adjust the calculation settings in the :ref:`advanced settings<woeadvanced>` (1)
 #. (Optional) Add an appendix to the output name by checking (9) and typing it in
-#. Start the calulcation (10)
+#. Start the calculation (10)
 
 After the calculation finished select a dataset (6) to view the
 :doc:`results</PROJECT/View/ResultsWofE>` (3).
@@ -64,7 +64,7 @@ Information
 
 The output raster dataset (.tif) contains the calculated Weights.
 
-Only discrete raster datasets are suitable to analyse with WofE. If you have a continous raster 
+Only discrete raster datasets are suitable to analyze with WofE. If you have a continuous raster 
 reclassify them first with the 
 :doc:`Sensitivity Reclassification Widget</DATA/RasterTools/SensReclass>` or 
 :doc:`Reclassify Widget</DATA/RasterTools/Reclassify>`.

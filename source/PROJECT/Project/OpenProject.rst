@@ -16,7 +16,7 @@ Usage
 #. Select the project and choose it (2)
 
 You can either select the Project folder in its parent directory and choose it (2) or open it and 
-select (2) without selecting a subfolder.
+select (2) without selecting a sub folder.
 
 You can cancel (3) the dialog at any point.
 

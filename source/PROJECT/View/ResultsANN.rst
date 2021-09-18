@@ -16,7 +16,7 @@ Overview
 
 * \(1) Shows the path to the results file.
 * \(2) Shows the path to the used feature dataset.
-* \(3) Shows the type and path to the used raseter datasets.
+* \(3) Shows the type and path to the used raster datasets.
 * \(4) Shows the settings used when creating the model.
 * \(5) Shows basic model metrics (hover your mouse over the results to show all available digits).
 
@@ -28,7 +28,7 @@ In addition to the overview tab (6) each raster dataset has its own tab:
 
    ANN Results Widget - raster dataset tab (discrete)
 
-LSAT PM assigns a Clas ID (1) for each unique value in the raster if it is a discrete type. Note
+LSAT PM assigns a Class ID (1) for each unique value in the raster if it is a discrete type. Note
 that these may differ from the original raster values.
 
 Class (2) shows the amount of pixels in the raster dataset with that unique value / Class ID

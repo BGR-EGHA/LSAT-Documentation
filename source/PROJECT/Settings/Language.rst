@@ -27,5 +27,5 @@ The translations are stored in core/resources/qt_*language*.qm
 
 They are created from .ts files in the same directory.
 
-The initial language for LSAT is english. If LSAT can not translate a string it will fall back to 
-the english version.
+The initial language for LSAT is English. If LSAT can not translate a string it will fall back to 
+the English version.

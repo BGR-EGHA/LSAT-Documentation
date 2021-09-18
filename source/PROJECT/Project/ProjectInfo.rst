@@ -14,7 +14,7 @@ Usage
 
 You can view spatial information about the project (1).
 
-You can read and alter the provided desription (5). Clicking on (3) opens a dialog to replace the 
+You can read and alter the provided description (5). Clicking on (3) opens a dialog to replace the 
 Description with text from a .txt or .docx file. If you want to save changes to the description 
 click (4).
 
@@ -39,5 +39,5 @@ The general information (1) shows a slightly modified and embedded version of th
 WebMap requires an internet connection to display the 
 `OpenStreetMap <https://www.openstreetmap.org>`_ layer.
 
-The WebMap is stored in /workspace/\*project name\*.html. It is independet of LSAT so it can be 
+The WebMap is stored in /workspace/\*project name\*.html. It is independent of LSAT so it can be 
 shared among peers and colleagues.

@@ -18,7 +18,7 @@ Usage
 #. Name the project (2)
 #. (Optional) Provide a description (3)
 #. Provide spatial reference (2 Options):
-    #. | Specify a mask raster dataset (4). This will attempt to autofill EPSG code (5), Extent 
+    #. | Specify a mask raster dataset (4). This will attempt to auto fill EPSG code (5), Extent 
        | (7) and cellsize (8)
     #. | Fill EPSG code (5), Extent (7) and cellsize (8) by hand. Open the
        | :ref:`Coordinate System Widget<coordinatesystem>` (6) to help with the EPSG Code.

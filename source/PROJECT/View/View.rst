@@ -1,7 +1,7 @@
 View
 ----
 
-The Main Log, Catalog and its submenus.
+The Main Log, Catalog and its sub menus.
 
 .. toctree::
 	:maxdepth: 1

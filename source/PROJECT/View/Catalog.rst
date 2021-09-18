@@ -109,7 +109,7 @@ Input data.
 Right click on any folder to open it in your file manager.
 
 The following table describes the options available by right clicking a file based on their type 
-independet from their location:
+independent from their location:
 
 +-----------+----------------------------------------------------------------------------------+
 | File type | Available actions                                                                |

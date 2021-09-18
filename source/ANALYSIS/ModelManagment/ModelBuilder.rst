@@ -36,8 +36,8 @@ After LSAT finished creating the model it appear in the list of models (16). Sel
 * Delete the model (14)
 * Open the model in the :doc:`Zoning Widget</ANALYSIS/ModelManagment/Zoning>` (15)
 
-The reciever operating characteristics (ROC) Curve is displayed in (17).
-If you generated a model using multiple samples a range will indicate the minnium and maximum ROC 
+The receiver operating characteristics (ROC) Curve is displayed in (17).
+If you generated a model using multiple samples a range will indicate the minimum and maximum ROC 
 curves.
 
 .. _mbadvancedsettings:

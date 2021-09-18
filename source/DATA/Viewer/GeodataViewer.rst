@@ -24,5 +24,5 @@ Information
 
 If you start the Widget from the :doc:`catalog</PROJECT/View/Catalog>` the selected raster will be 
 available from the start.
-This widget displayes coordinates in degrees (°), minutes (') and seconds ('') WGS84 (EPSG 
+This widget displays coordinates in degrees (°), minutes (') and seconds ('') WGS84 (EPSG 
 4326).

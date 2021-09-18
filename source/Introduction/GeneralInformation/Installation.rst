@@ -23,8 +23,8 @@ Installation with source code
     
         py -m venv venv
 
-#. | Activate the virtual envirnment (venv should appear in the command line, indicating you were 
-   | successfull)
+#. | Activate the virtual environment (venv should appear in the command line, indicating you were 
+   | successful)
 
     .. code-block:: none
     
@@ -37,8 +37,8 @@ Installation with source code
         py -m pip install -r requirements.txt
     
     Additionally to the packages listed in the requirements.txt you will need GDAL (3.3.0 tested).
-    Unfortunately, GDAL can usually not simply be installed with pip. You can either downloada .whl
-    file from Christoph Gohlkes fantastic `website <https://www.lfd.uci.edu/~gohlke/pythonlibs/>`_
+    Unfortunately, GDAL can usually not simply be installed with pip. You can either download a 
+    .whl file from Christoph Gohlkes fantastic `website <https://www.lfd.uci.edu/~gohlke/pythonlibs/>`_
     or build it yourself.
     To install the downloaded .whl:
 

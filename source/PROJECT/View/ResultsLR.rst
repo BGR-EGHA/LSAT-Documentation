@@ -16,7 +16,7 @@ Overview
 
 * \(1) Shows the path to the results file.
 * \(2) Shows the path to the used feature dataset.
-* \(3) Shows the type and path to the used raseter datasets.
+* \(3) Shows the type and path to the used raster datasets.
 * \(4) Shows the settings used when creating the model.
 * \(5) Shows basic model metrics (hover your mouse over the results to show all available digits).
 
