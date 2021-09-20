@@ -16,7 +16,7 @@ Usage
 
 #. | Add a vector file with the landslide inventory. You can either type the absolute path to the 
    | file or select it from your PC with a dialog (4).
-#. Add (7) raster datasets to the explenatory parameters (5)
+#. Add (7) raster datasets to the explanatory parameters (5)
 #. Set the type (6) of each parameter using the combobox
 #. (Optional) Adjust the calculation settings in the :ref:`advanced settings<annadvanced>` (1)
 #. Provide an output name (9)
@@ -54,7 +54,7 @@ Information
 LSAT PM uses `scikit-learns MLPClassifier <https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html>`_
 to apply ANN to spatial data.
 
-Changes made to the settings are persistant.
+Changes made to the settings are persistent.
 
 Input and Output
 ^^^^^^^^^^^^^^^^

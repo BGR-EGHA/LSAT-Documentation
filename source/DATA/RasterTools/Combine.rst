@@ -14,7 +14,7 @@ Creates a raster dataset based on unique combinations of input raster datasets.
 Usage
 ^^^^^
 
-#. | Add atleast two raster datasets. You can either drag and drop the rasters from your 
+#. | Add at least two raster datasets. You can either drag and drop the rasters from your 
    | file manager into the input list (1) or select them from your PC (2).
 #. | (Optional) Change the mask raster dataset from the projects default by unchecking (5) and 
    | either picking an input raster by selecting it in the list (1) and clicking (4) or pick a 

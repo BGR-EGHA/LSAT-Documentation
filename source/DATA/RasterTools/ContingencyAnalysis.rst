@@ -15,7 +15,7 @@ contingency analysis computes Pearsonâ€™s contingency coefficient C and Cramerâ€
 Usage
 ^^^^^
 
-#. | Add atleast two discrete raster datasets. You can either drag and drop the rasters from your 
+#. | Add at least two discrete raster datasets. You can either drag and drop the rasters from your 
    | file manager or select them from your PC (1).
 #. If necessary change the mask raster by unchecking (5) and selecting a new one (4).
 #. Name the output file (6).
@@ -70,7 +70,7 @@ Double-clicking a cell in the Table (2) opens the details for that comparison.
 This window shows the pairwise raster value comparison.
 
 Choose between displaying the frequency table, Chi-squared or Phi (2x2) in the Table (3) by 
-selecting the corrbesponding tab (2).
+selecting the corresponding tab (2).
 
 Clicking the button (1) opens a dialog to export the current Matrix in the Table (3) as an excel 
 file.

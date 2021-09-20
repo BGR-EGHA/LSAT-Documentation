@@ -16,7 +16,7 @@ Overview
 
 * \(1) Shows the path to the results file.
 * \(2) Shows the path to the used feature dataset and how it was subsampled.
-* \(3) Shows the path to the used raseter datasets.
+* \(3) Shows the path to the used raster datasets.
 * \(4) Shows basic model metrics (hover your mouse over the results to show all available digits).
 
 The table contains all results of the calculation:
@@ -40,7 +40,7 @@ The Graphics tab shows selected results:
 
    WofE Results Widget - graphics tab
 
-* \(1) Switches between Box-, and Violonplots for (4) and (5) (Only if multiple samples were used).
+* \(1) Switches between Box-, and Violinplots for (4) and (5) (Only if multiple samples were used).
 * \(2) Switches between all ROC curves or a range for (6) (Only if multiple samples were used).
 * \(3) Shows the pixel count for each raster dataset value.
 * \(4) Shows the landslide pixel count for each raster dataset value.

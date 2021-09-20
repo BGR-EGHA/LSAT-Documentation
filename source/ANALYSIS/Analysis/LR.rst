@@ -16,7 +16,7 @@ Usage
 
 #. | Add a vector file with the landslide inventory. You can pick one from the project with the
    | combobox or select it from your PC with a dialog (4).
-#. Add (7) raster datasets to the explenatory parameters (5)
+#. Add (7) raster datasets to the explanatory parameters (5)
 #. Set the type (6) of each parameter using the combobox
 #. (Optional) Adjust the calculation settings in the :ref:`advanced settings<lradvanced>` (1)
 #. Provide an output name (9)
@@ -56,7 +56,7 @@ Information
 LSAT PM uses `scikit-learns LogisticRegression <https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html>`_
 to apply LR to spatial data.
 
-Changes made to the settings are persistant.
+Changes made to the settings are persistent.
 
 Input and Output
 ^^^^^^^^^^^^^^^^

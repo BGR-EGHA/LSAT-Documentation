@@ -14,7 +14,7 @@ Import raster files into LSAT Projects.
 Usage
 ^^^^^
 
-#. | Add atleast one raster dataset. You can either drag and drop the rasters from your 
+#. | Add at least one raster dataset. You can either drag and drop the rasters from your 
    | file manager into the input list (4) or select them from your PC (1).
 #. | (Optional) Change the mask raster dataset from the projects default by unchecking (5) and 
    | either picking an input raster by selecting it in the list (4) and clicking (3) or pick a 
@@ -45,7 +45,7 @@ the projects mask when :doc:`creating a new project</PROJECT/Project/NewProject>
 Usage
 
 #. Pick a resampling technique (3) best suited for the type of raster you want to import (1).
-#. Proceed witht the import (4).
+#. Proceed with the import (4).
 
 The input raster info (1) shows an embedded version of the 
 :doc:`Raster Info Widget</PROJECT/View/RasterInfo>` for the import raster dataset.
@@ -63,7 +63,7 @@ Resampling techniques:
     | CUBIC      | continuous datasets such as DEM.                              |
     +------------+---------------------------------------------------------------+
     | BILINEAR   | Alternative to Cubic spline interpolation when projecting     |
-    |            | continuos  datasets.                                          |
+    |            | continuous datasets.                                          |
     +------------+---------------------------------------------------------------+
 
 Import Process
@@ -85,7 +85,7 @@ LSAT PM compares five properties of the input raster dataset to the mask raster 
 
 If all are the same the input raster dataset gets copied, else it gets reprojected.
 
-If LSAT detects that the input raster is a discrete dataset it either copies an exisiting raster 
+If LSAT detects that the input raster is a discrete dataset it either copies an existing raster 
 attribute table or creates a new one.
 
 Input and Output

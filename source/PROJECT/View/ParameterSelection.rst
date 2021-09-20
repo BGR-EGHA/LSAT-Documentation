@@ -23,7 +23,7 @@ When you close the Parameter Selection Widget the selected Analysis will not sta
 Information
 ^^^^^^^^^^^
 
-After starting the Analysis Widget from the Paramter Selection you can still remove and add raster 
+After starting the Analysis Widget from the Parameter Selection you can still remove and add raster 
 datasets.
 
-Paramter Selection shows .tif files in data/params.
+Parameter Selection shows .tif files in data/params.

@@ -25,7 +25,7 @@ Usage
    | yourself or pick one with a dialog (7).
 #. Start the calculation (8)
 
-If the input feature dataset lies atleast partialy outside the mask and these parts are not 
+If the input feature dataset lies at least partially outside the mask and these parts are not 
 ignored LSAT extents the output raster while keeping the mask raster cell size.
 
 If you want to use the output raster in your LSAT Project you need to import it using the
