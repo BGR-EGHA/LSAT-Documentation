@@ -17,22 +17,26 @@ Usage
 #. | Pick a vector dataset to import. You can either type the absolute path to the file or select 
    | it from your PC (1).
 #. (Optional) Disable splitting the inventory into training and validation datasets.
+#. (Optional) Disable ignoring feature parts outside the mask raster.
 #. | Adjust the size of the training dataset as percent of the import feature either by typing a 
-   | number (3) or adjusting the slider.
-#. (Optional) Define a seed to initialize the random function (4).
+   | number (4) or adjusting the slider.
+#. (Optional) Define a seed to initialize the random function (5).
 #. | (Optional) Adjust the training dataset output location either by typing the output path or 
-   | with a dialog (5)
+   | with a dialog (6)
 #. | (Optional) Adjust the test dataset output location either by typing the output path or with a 
-   | dialog (6)
-#. Start the Import (7)
+   | dialog (7)
+#. Start the Import (8)
 
-By defining a seed to initialize random (4) you can recreate the inventory split on a later date.
+LSAT :doc:`clips</DATA/VectorTools/GeoprocessingTools>` the feature with region.shp of the current
+project on the fly if you choose to ignore features outside the mask.
+
+By defining a seed to initialize random (5) you can recreate the inventory split on a later date.
 
 To achieve the best results in later :doc:`analyses</ANALYSIS/ANALYSIS>` consider splitting the 
 inventory.
 
 Most LSAT widgets expect the inventory to be in their default locations. While you can always 
-point to another folder or file consider it is easier to leave the default output locations.
+point to another folder or file it is easier to leave the default output locations.
 
 .. topic:: Why subsample?
 
