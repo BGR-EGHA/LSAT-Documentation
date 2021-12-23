@@ -2,7 +2,7 @@ Zoning
 ------
 
 .. figure:: img/Zoning1.png
-   :scale: 25%
+   :scale: 50%
    :align: center
 
    Zoning widget
