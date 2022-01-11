@@ -32,6 +32,13 @@ Zoning preview (8) and the ROC curve (9) offer a sneak peek at the resulting map
 If you started Zoning from the :doc:`Model Builder Widget</ANALYSIS/ModelManagment/ModelBuilder>` 
 the selected Model will be available to you right away.
 
+Information
+^^^^^^^^^^^
+
+The True Positive Rate (TPR) (y axis in (9)) corresponds roughly to the cumulative landslide
+area. The False Positive Rate (FPR) (x axis in (9)) corresponds approximately to the total area
+without landslides.
+
 Input and Output
 ^^^^^^^^^^^^^^^^
 +------------+----------------------------------------------------------------+
