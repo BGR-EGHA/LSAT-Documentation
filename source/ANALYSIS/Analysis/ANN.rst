@@ -71,4 +71,8 @@ Input and Output
 |            | ANN model information (.npz)                                  |
 |            |                                                               |
 |            | Output path: /results/ANN/tables/\*output name\*_tab.npz      |
++            +                                                               +
+|            | ANN model (.pkl)                                              |
+|            |                                                               |
+|            | Output path: /results/ANN/tables/\*output name\*_model.pkl    |
 +------------+---------------------------------------------------------------+ 
