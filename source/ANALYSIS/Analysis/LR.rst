@@ -73,4 +73,8 @@ Input and Output
 |            | LR model information (.npz)                                   |
 |            |                                                               |
 |            | Output path: /results/LR/tables/\*output name\*_tab.npz       |
++            +                                                               +
+|            | LR model (.pkl)                                               |
+|            |                                                               |
+|            | Output path: /results/LR/tables/\*output name\*_model.pkl     |
 +------------+---------------------------------------------------------------+ 
