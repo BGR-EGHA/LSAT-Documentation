@@ -139,6 +139,7 @@ LSAT Project structure
 
 Files and folders in a newly created LSAT Project with a mask raster: ::
 
+    │   *project name*.log
     │   metadata.xml
     │   region.dbf
     │   region.prj
