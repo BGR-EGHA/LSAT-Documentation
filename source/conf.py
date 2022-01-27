@@ -18,11 +18,11 @@
 # -- Project information -----------------------------------------------------
 
 project = 'LSAT PM'
-copyright = '2021, Federal Institute for Geosciences and Natural Resources'
+copyright = '2022, Federal Institute for Geosciences and Natural Resources'
 author = 'Federal Institute for Geosciences and Natural Resources'
 
 # The full version, including alpha/beta/rc tags
-release = '1.0.0b'
+release = '1.0.0b2'
 
 
 # -- General configuration ---------------------------------------------------
