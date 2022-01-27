@@ -2,7 +2,7 @@ Main Log
 --------
 
 .. figure:: img/MainLog1.png
-   :scale: 20 %
+   :scale: 40 %
    :alt: MainLog Widget
 
    Main Log Widget
@@ -30,3 +30,6 @@ There a three types of logging you will see in the Main Log:
     The red text indicates that something inside LSAT broke. If LSAT created an output file after an 
     error you should not use it, as it may contain corrupted data.
     If you see errors in you Log please file a bug report.
+
+In addition to the Main Log each LSAT PM project contains a .log file with its full history of logging
+outputs.
