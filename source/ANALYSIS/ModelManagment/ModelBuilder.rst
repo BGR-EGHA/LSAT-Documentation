@@ -98,7 +98,7 @@ add them at the cursor location in (4). You switch between example numpy operato
 .. warning::
     The expressions will be executed using
     `eval() <https://docs.python.org/3.7/library/functions.html#eval>`_. While this is a powerful 
-    tool it can also break LSAT.
+    tool it can also break LSAT. Layer names must be legal python variable names.
 
 Input and Output
 ^^^^^^^^^^^^^^^^
