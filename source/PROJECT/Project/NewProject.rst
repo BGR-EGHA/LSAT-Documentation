@@ -30,6 +30,8 @@ Usage
 To achieve the best results in later :doc:`analyses</ANALYSIS/ANALYSIS>` use a mask raster 
 dataset. 
 
+LSAT PM only supports mask raster datasets with square cells.
+
 You can later change the project description with the 
 :doc:`Project Info Widget</PROJECT/Project/ProjectInfo>`
 
