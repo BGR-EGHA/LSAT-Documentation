@@ -4,7 +4,7 @@ Results - LR
 -------------
 
 .. figure:: img/ResultsLR1.png
-   :scale: 35 %
+   :scale: 70 %
    :alt: LR Results Widget - overview tab
 
    LR Results Widget - overview tab
