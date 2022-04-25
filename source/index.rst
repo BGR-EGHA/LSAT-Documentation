@@ -5,7 +5,7 @@
 
 Welcome to LSAT PM's documentation!
 ===================================
-This manual provides a brief overview of LSAT PM v1.0.0b2 and its basic functionalities.
+This manual provides a brief overview of LSAT PM and its basic functionalities.
 
 
 .. toctree::
