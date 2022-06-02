@@ -2,8 +2,14 @@ LSAT-docs
 =========
 
 [![DOI](https://zenodo.org/badge/386275172.svg)](https://zenodo.org/badge/latestdoi/386275172)
+[![Documentation Status](https://readthedocs.org/projects/lsat-documentation/badge/?version=latest)](https://lsat-documentation.readthedocs.io/en/latest/?badge=latest)
 
 This repository contains the source files necessary to build the LSAT Documentation.
+
+
+## How to view the LSAT Documenation online
+
+Read the latest version online on [readthedocs.io](https://lsat-documentation.readthedocs.io/en/latest/)
 
 ## How to build and view the LSAT Documentation as html on Windows
 
