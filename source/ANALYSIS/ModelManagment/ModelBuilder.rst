@@ -54,26 +54,27 @@ Advanced Settings
 Model Builder uses the same Advanced Settings as
 :doc:`Weights of Evidence</ANALYSIS/Analysis/WofE>`.
 
-#. | Choose between On-the-fly subsampling (2), predefined subsamples (3) or select neither to use 
+#. | Choose between On-the-fly subsampling (2), predefined subsamples (5) or select neither to use
    | single sample mode
    
     * On-the-fly subsampling (2)
     
         #. | Set the size of the subsamples as percent of the import feature either by typing a 
            | number (1) or adjusting the slider.
-        #. Set the number of samples to generate on-the-fly
+        #. Set the number of samples to generate on-the-fly (3)
+        #. (Optional) Define a seed to initialize the random function (4)
         
-    * Predefined subsamples (3)
+    * Predefined subsamples (5)
     
         #. | Provide a path to the folder with the predefined subsamples. You can either type in
-           | the absolute path yourself or pick one with a dialog (5).
+           | the absolute path yourself or pick one with a dialog (6).
            
-    * Single sample mode (neither (2) nor (3) selected)
+    * Single sample mode (neither (2) nor (5) selected)
     
-        #. By selecting neither (2) or (3) LSAT will use 100% of the feature.
+        #. By selecting neither (2) or (5) LSAT will use 100% of the feature.
         
-#. (Optional) Change the rasterization method (8)
-#. Select OK (9)
+#. (Optional) Change the rasterization method (9)
+#. Select OK (10)
 
 .. _expressionbuilder:
 
