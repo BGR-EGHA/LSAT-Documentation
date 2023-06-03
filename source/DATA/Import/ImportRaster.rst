@@ -57,7 +57,7 @@ Resampling techniques:
     +------------+---------------------------------------------------------------+
     |            | Nearest-neighbor interpolation. Should be applied when        |
     | NEAREST    | transforming discrete data (e.g., classified raster datasets) |
-    |            | such as lithology                                             |
+    |            | such as lithology.                                            |
     +------------+---------------------------------------------------------------+
     |            | Cubic spline interpolation. Should be used when projecting    |
     | CUBIC      | continuous datasets such as DEM.                              |
