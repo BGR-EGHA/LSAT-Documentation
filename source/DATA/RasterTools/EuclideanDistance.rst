@@ -4,7 +4,7 @@ Euclidean distance
 ------------------
 
 .. figure:: img/EuclideanDistance1.png
-   :scale: 50 %
+   :scale: 100 %
    :alt: Euclidean Distance Widget
 
    Euclidean Distance Widget
@@ -19,17 +19,21 @@ Usage
    | from your PC (1).
 #. If necessary change the mask raster by unchecking (2) and selecting a new one (3).
 #. (Optional) Choose to ignore (4) parts of the input feature that are not inside the mask.
-#. (Optional) Set the maximum distance to calculate the distance (5).
-#. (Optional) Set the value to write into cells within the distance (6).
+#. (Optional) Set the minimum distance to calculate the distance (5).
+#. (Optional) Set the maximum distance to calculate the distance (6).
+#. (Optional) Set the value to write into cells within the maximum distance (7).
 #. | Select the output distance raster location. You can either type in the absolute file path
-   | yourself or pick one with a dialog (7).
-#. Start the calculation (8)
+   | yourself or pick one with a dialog (8).
+#. Start the calculation (9)
 
 If the input feature dataset lies at least partially outside the mask and these parts are not 
-ignored LSAT extents the output raster while keeping the mask raster cell size.
+ignored. LSAT extents the output raster while keeping the mask raster cell size.
 
 If you want to use the output raster in your LSAT Project you need to import it using the
-:doc:`Import Raster Widget</DATA/Import/ImportRaster>`.
+:doc:`Import Raster Widget</DATA/Import/ImportRaster>`. While the output raster contains
+continuous values we suggest importing it with nearest-neighbor interpolation, thus just clipping
+the extended areas. This will prevent values below the minimum, which can occur with other
+interpolation methods. 
 
 Input and Output
 ^^^^^^^^^^^^^^^^
